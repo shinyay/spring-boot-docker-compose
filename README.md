@@ -21,6 +21,10 @@ Let's take a look at it.
 
 ![docker-compose](https://user-images.githubusercontent.com/3072734/234753473-10920dd4-b7c5-4272-8d23-47acd4cc6ee2.gif)
 
+```shell
+$ curl -X GET localhost:8080/api/v1/books
+```
+
 ## Features
 
 - Docker Compose Integration
