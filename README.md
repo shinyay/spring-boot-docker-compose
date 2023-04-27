@@ -1,6 +1,7 @@
 # Spring Boot 3.1 (RC1) with Docker Compose Integration
 
-Overview
+Spring Boot 3.1 provides new function to integrate with Docker Compose.
+Let's take a look at it.
 
 ## Description
 
