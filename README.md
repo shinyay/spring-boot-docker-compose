@@ -9,6 +9,10 @@ Overview
 - ✅ Project: Gradle - Kotlin
 - ✅ Language: Kotlin
 - ✅ Spring Boot: 3.1.0 (RC1)
+- Dependencies:
+  - ✅ Spring Web
+  - ✅ Spring Data JPA
+  - ✅ PostgreSQL Driver
 
 ## Demo
 
