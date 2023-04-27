@@ -6,9 +6,12 @@ import jakarta.persistence.Id
 
 @Entity
 class Book(
-    @Id
-    @GeneratedValue
-    val id: Long,
     val name: String,
     val author: String
-)
+) {
+    @Id
+    @GeneratedValue
+    val id: Long? = null
+
+    constructor() : this("", "")
+}
