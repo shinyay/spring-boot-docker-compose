@@ -19,7 +19,7 @@ Let's take a look at it.
 
 ## Demo
 
-
+![docker-compose](https://user-images.githubusercontent.com/3072734/234753473-10920dd4-b7c5-4272-8d23-47acd4cc6ee2.gif)
 
 ## Features
 
