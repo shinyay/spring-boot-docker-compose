@@ -18,8 +18,9 @@ Overview
 
 ## Features
 
-- feature:1
-- feature:2
+- Docker Compose Integration
+- ListCrudRepository Interface
+  - [Announcing ListCrudRepository & Friends for Spring Data 3.0](https://spring.io/blog/2022/02/22/announcing-listcrudrepository-friends-for-spring-data-3-0)
 
 ## Requirement
 
