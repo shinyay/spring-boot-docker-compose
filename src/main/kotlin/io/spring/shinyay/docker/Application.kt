@@ -1,4 +1,4 @@
-package io.spring.shinyay.docker.springdockercompose
+package io.spring.shinyay.docker
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
