@@ -6,6 +6,10 @@ Overview
 
 ![initilizr](https://user-images.githubusercontent.com/3072734/234735255-eb4e45af-d743-4727-aed4-ce13a079aca9.png)
 
+- ✅ Project: Gradle - Kotlin
+- ✅ Language: Kotlin
+- ✅ Spring Boot: 3.1.0 (RC1)
+
 ## Demo
 
 ## Features
