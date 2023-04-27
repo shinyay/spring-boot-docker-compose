@@ -1,4 +1,4 @@
-# Name
+# Spring Boot 3.1 (RC1) with Docker Compose Integration
 
 Overview
 
