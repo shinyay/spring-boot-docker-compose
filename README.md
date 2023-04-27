@@ -3,6 +3,8 @@
 Spring Boot 3.1 provides new function to integrate with Docker Compose.
 Let's take a look at it.
 
+- [Spring Boot 3.1.0-RC1 available now](https://spring.io/blog/2023/04/22/spring-boot-3-1-0-rc1-available-now)
+
 ## Description
 
 ![initilizr](https://user-images.githubusercontent.com/3072734/234735255-eb4e45af-d743-4727-aed4-ce13a079aca9.png)
