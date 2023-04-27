@@ -24,6 +24,7 @@ Let's take a look at it.
 ## Features
 
 - Docker Compose Integration
+  - [Spring Boot 3.1.0-RC1 Release Notes - Docker Compose](https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-3.1.0-RC1-Release-Notes#docker-compose)
 - ListCrudRepository Interface
   - [Announcing ListCrudRepository & Friends for Spring Data 3.0](https://spring.io/blog/2022/02/22/announcing-listcrudrepository-friends-for-spring-data-3-0)
 
