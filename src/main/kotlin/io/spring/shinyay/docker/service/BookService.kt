@@ -1,4 +1,11 @@
 package io.spring.shinyay.docker.service
 
-class BookService {
+import io.spring.shinyay.docker.entity.Book
+import io.spring.shinyay.docker.repository.BookRepository
+import org.springframework.stereotype.Service
+
+@Service
+class BookService(val repository: BookRepository) {
+
+    fun getBooks(): MutableList<Book> = repository.findAll()
 }
