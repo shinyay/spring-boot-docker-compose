@@ -15,4 +15,6 @@ class BookService(val repository: BookRepository) {
     }
 
     fun findAllBooks(): MutableList<Book> = repository.findAll()
+
+    fun registerBook(book: Book): Book = repository.save(book)
 }
